@@ -1,0 +1,4 @@
+*10:1 biased dataset* : FIX USING AUGMENTATION
+
+*using vgg and feedforward* : underfitting dataset 
+                             recall and precision too low
